@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fruit"
+        android:title="열매 주기">
+    </item>
+    <item
+        android:id="@+id/sleep"
+        android:title="재우기">
+    </item>
+</menu>

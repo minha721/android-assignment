@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemMonsterBall"
+        android:title="몬스터볼">
+    </item>
+    <item
+        android:id="@+id/itemGym"
+        android:title="체육관">
+    </item>
+    <item
+        android:id="@+id/itemPark"
+        android:title="공원">
+    </item>
+</menu>
